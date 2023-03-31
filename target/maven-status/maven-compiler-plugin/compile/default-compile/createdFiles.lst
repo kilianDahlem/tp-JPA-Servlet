@@ -1,6 +1,7 @@
 jpa\JpaTest.class
 dao\FicheFeatureDao.class
 servlet\SearchFicheFeature.class
+servlet\HomePage.class
 servlet\UserInfo.class
 jpa\FicheBug.class
 servlet\SearchUser.class
